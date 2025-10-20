@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de IMC",
+  "description": "A BMI calculator that uses AI to provide personalized health tips.",
+  "requestFramePermissions": []
+}
